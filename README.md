@@ -45,10 +45,10 @@ OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.9.1+1, mixed mode)
 
 В результате тестирования выявлены следующие дефекты:
 
-https://github.com/Cook1eM/bag-1.1/blob/main/README.md
-https://github.com/Cook1eM/bag-1.2/blob/main/README.md
-https://github.com/Cook1eM/bag-1.3/blob/main/README.md
-https://github.com/Cook1eM/bag-1.4/blob/main/README.md
+1. https://github.com/Cook1eM/bag-1.1/blob/main/README.md
+1. https://github.com/Cook1eM/bag-1.2/blob/main/README.md
+1. https://github.com/Cook1eM/bag-1.3/blob/main/README.md
+1. https://github.com/Cook1eM/bag-1.4/blob/main/README.md
 
 ## Описание процесса тестирования
 

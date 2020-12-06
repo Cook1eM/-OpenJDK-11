@@ -19,17 +19,17 @@
 
 Шаги : 
 1.Перейдите на сайт adoptopenjdk.net.
-![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-adoptopenjdk.png
+![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-adoptopenjdk.png)
 1.Выберите опции как на скриншоте ниже и нажмите на кнопку скачивания:
-![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step1.png
+![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step1.png)
 1.Запустите на установку скачанный MSI-файл и нажмите кнопку "Next":
-![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step2.png
+![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step2.png)
 1. Прочитайте и согласитесь с условиями лицензии:
-![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step3.png
+![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step3.png)
 1. Выберите опции как на экране (удостоверьтесь, что установка происходит в Program Files и опция Add to PATH выбрана):
-![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step4.png
+![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step4.png)
 1. Нажмите на кнопку "Install":
-![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step5.png
+![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step5.png)
 1. Дождитесь окончания установки и нажмите на кнопку "Finish":
 
 1.

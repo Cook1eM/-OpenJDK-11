@@ -1,60 +1,40 @@
-# 1. Отчёт о тестировании Инструкция по установке OpenJDK11 на win10
+# Отчёт о тестировании OpenJDK 11
 ## Краткое описание
-03.11.2020 - 03.11.2020 было проведено функциональное тестирование инструкции установки приложения OpenJDK11.
+03.11.2020 - 03.11.2020 было проведено *функциональное* тестирование установки приложения OpenJDK11.
 
 На тестирование затрачено: 1 час
 
-В результате тестирования выявлены следующие дефекты :
+Задачи тестирования
 
-Не выявил
+* Нужно протестировать документацию
+* Нужно протестировать установку
+* Нужно протестировать совместимость
 
-## Тестирование производилось в следующем окружении:
-
-Windows 10 
-
-openjdk version "11.0.9.1" 2020-11-04
-
-OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9.1+1)
-
-OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.9.1+1, mixed mode)
-
-# 1. Отчёт о тестировании Установка OpenJDK11 на Win10
-## Краткое описание
-03.11.2020 - 03.11.2020 было проведено установочное тестирование установки приложения OpenJDK11.
-На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
 
-Не выявил
 
-## Тестирование производилось в следующем окружении:
-
-Windows 10 
-
-openjdk version "11.0.9.1" 2020-11-04
-
-OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9.1+1)
-
-OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.9.1+1, mixed mode)
-
-# Отчёт Приложение работает согласно руководству использования
-## Краткое описание
-03.11.2020 - 03.11.2020 было проведено функциональное тестирование установки приложения OpenJDK11.
-
-На тестирование затрачено: 1 час
-
-В результате тестирования выявлены следующие дефекты:
-
-1. https://github.com/Cook1eM/bag-1.1/blob/main/README.md
-1. https://github.com/Cook1eM/bag-1.2/blob/main/README.md
-1. https://github.com/Cook1eM/bag-1.3/blob/main/README.md
-1. https://github.com/Cook1eM/bag-1.4/blob/main/README.md
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные <указать источник, откуда брались тестовые данные>:
+Шаги : 
+1.Перейдите на сайт adoptopenjdk.net.
+![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-adoptopenjdk.png
+1.Выберите опции как на скриншоте ниже и нажмите на кнопку скачивания:
+![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step1.png
+1.Запустите на установку скачанный MSI-файл и нажмите кнопку "Next":
+![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step2.png
+1. Прочитайте и согласитесь с условиями лицензии:
+![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step3.png
+1. Выберите опции как на экране (удостоверьтесь, что установка происходит в Program Files и опция Add to PATH выбрана):
+![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step4.png
+1. Нажмите на кнопку "Install":
+![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step5.png
+1. Дождитесь окончания установки и нажмите на кнопку "Finish":
 
-https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
+1.
+1.
+1. 
 
 ### Ключи для проверки
 

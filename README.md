@@ -6,7 +6,7 @@
 
 В результате тестирования выявлены следующие дефекты: 
 
-* Валидация ключей не соответсвует [руководству использования KeyValidator ](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+* Валидация ключей не соответствует [руководству использования KeyValidator ](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 
 ## Описание процесса тестирования
@@ -52,7 +52,7 @@
 * Приложение запускается и совместимо с Java 11
 ![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step7.png)
 * Приложение KeyValidator работает согласно руководству использования
-* Валидация ключей не соответсвует [руководству использования KeyValidator ](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+* Валидация ключей не соответствует [руководству использования KeyValidator ](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 
 

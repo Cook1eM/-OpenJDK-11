@@ -25,7 +25,7 @@
 1. Проверяем приложение KeyValidator согласно руководству (ссылка на инструкцию в предисловии)
 1. Проверяем валидацию ключей из руководства
 
-### В качестве тестовых данных использовались данные [Руководство использования KeyValidator ](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+### В качестве тестовых данных использовалось  [Руководство использования KeyValidator ](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 #### Валидные ключи:
 * 00000000-0000-0000-0000-000000000000 

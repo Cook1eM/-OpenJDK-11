@@ -32,9 +32,9 @@
 
 ### Фактический результат
 * OpenJDK11 работает на Windows 10 64-bit
-![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step6.png)
+
 * Приложение запускается и совместимо с Java 11
-![Image alt](https://github.com/Cook1eM/screenshots/raw/main/win-step7.png)
+
 * Приложение KeyValidator работает согласно руководству использования
 * [Валидация ключей не соответствует руководству искользования](https://github.com/Cook1eM/-OpenJDK-11/issues/2)
 
